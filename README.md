@@ -4,5 +4,5 @@ This repository contains example resources to make your own resource pack
 fully compatible with Wildaria.
 
 Variants:
-- **Vanilla**:
+- **vanilla**:
   Default textures included in Minecraft
